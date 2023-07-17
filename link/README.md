@@ -1,0 +1,1 @@
+Write CSS so that the link <a href="http://www.testdome.com">Check documentation</a> looks like the one in the image below, and the cursor looks like a question mark when hovering over the link:
